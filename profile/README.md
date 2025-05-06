@@ -14,4 +14,4 @@ No deep dives into specs. No boilerplate. Just auth that does its job.
 
 ---
 
-👉 [Start with the docs](https://mcp-auth.dev/docs) | 💬 [Join the discussion](https://github.com/orgs/mcp-auth/discussions)
+👉 [Start with the docs](https://mcp-auth.dev/docs)&nbsp;&nbsp;💬 [Join the discussion](https://github.com/orgs/mcp-auth/discussions)
