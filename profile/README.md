@@ -1,6 +1,18 @@
-# 🔐 MCP Auth
+<p align="center">
+  <a href="https://mcp-auth.dev/?ref=community_health" target="_blank" align="center" alt="Go to the MCP Auth website">
+    <picture>
+      <source width="200" media="(prefers-color-scheme: dark)" srcset="https://github.com/mcp-auth/.github/raw/master/logos/mcp-auth-full-dark.svg">
+      <source width="200" media="(prefers-color-scheme: light)" srcset="https://github.com/mcp-auth/.github/raw/master/logos/mcp-auth-full-light.svg">
+      <img width="80" src="https://github.com/mcp-auth/.github/raw/master/logos/mcp-auth.svg" alt="MCP Auth logo">
+    </picture>
+  </a>
+</p>
 
-*Plug-and-play auth for MCP servers*
+<p align="center">
+  <i>Plug-and-play auth for MCP servers</i>
+</p>
+
+## About 
 
 No deep dives into specs. No boilerplate. Just auth that does its job.
 
